@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ademmm;dlsa
+=======
+Adem
+>>>>>>> a27c2bbd2a1b2419c2eac1576ae202ea19c71f65
